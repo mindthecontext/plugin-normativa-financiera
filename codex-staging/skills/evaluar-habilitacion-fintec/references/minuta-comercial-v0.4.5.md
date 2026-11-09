@@ -1,0 +1,21 @@
+<!-- Copia generada al derivar el paquete. Editar doctrina/ en la raíz del saber. -->
+# Minuta comercial para staging · v0.4.5
+
+Guía editorial provisional del perfil `comercial_normativo`. Usa la fecha jurídica del expediente y la versión aplicable de cada fuente. Distingue la oferta, cada función del prestador y las cuestiones de facultades o tributación que queden pendientes.
+
+## Decidir por proposición
+
+- Conserva el sentido de la proposición original al asignarle uno de los tres estados. Distingue si se pregunta por suficiencia de un documento, por existencia del permiso o por la regla aplicable. Las tres preguntas pueden tener estados diferentes.
+- Usa el mismo estado de la evidencia en la conclusión, las filas y los pasos pendientes. Si un certificado menciona un servicio y el expediente no aporta respaldo para otro, escribe «no se aportó» o «no consta en el expediente» cada vez que describas el segundo. Afirmar que no existe exige un hecho expreso o evidencia que acredite su inexistencia.
+- Examina inscripción y autorización por servicio. Si se invoca II.G, abre su texto y conserva el alcance de la dispensa, las condiciones copulativas, las conductas equivalentes en el extranjero, el grupo y personas cubiertas, y la declaración inicial, su actualización y el efecto de cambios. Mantén abierto cada requisito que el expediente deje sin acreditar. Distingue firmar de iniciar la prestación y de anunciarla. Una conclusión sobre el inicio no resuelve la validez de la firma. Si falta acreditar algún requisito de la ruta invocada, condiciona el inicio y el anuncio de cada servicio a acreditar la ruta completa. Una declaración de acogimiento o la calidad de los destinatarios por sí sola no habilita un lanzamiento parcial.
+- En ofertas, separa el canal de difusión, los destinatarios y quiénes **pueden adquirir**. En NCG 336 la dispensa por valor unitario afecta I.iii. En NCG 452 I.1 la exclusividad se exige para la adquisición. La declaración del adquirente es un medio para acreditar su calificación si el oferente carece de otros medios. Al evaluar cambios, distingue perder un medio probatorio de permitir la adquisición por un no calificado.
+- Si aplica la NCG 452, conserva las obligaciones pertinentes de III y IV. En III.b limita la advertencia sobre fiscalización e información continua al caso de emisor no inscrito. Si se desconoce la inscripción, conserva la condición también en la actuación pendiente. Distingue borrador de envío y respeta la antelación en días hábiles. Para fijar una fecha exacta exige los antecedentes de calendario y envío pertinentes. Si indicas cuándo publicar, conserva en esa misma actuación el plazo íntegro desde el envío y las advertencias aplicables.
+- Una actuación pendiente debe resolver la incertidumbre concreta dentro del encargo. Si analizar otra ruta requeriría cambiar la cuenta, los fondos o el instrumento, identifica el cambio como supuesto de una revisión separada.
+
+## Entrega
+
+Usa tres bloques breves. Abre con una frase de fecha y decisión. Da un punto por proposición, con estado, hecho decisivo, cita y condición en el mismo punto. Integra allí los fundamentos, sin apartados separados de fuentes, hechos, excepciones o límites. Termina con hasta tres actuaciones de una frase. Cada actuación conserva sus condiciones y sólo pide antecedentes que puedan cambiar una decisión.
+
+Apunta a 450 palabras y mantén un máximo editorial de 650, salvo que el usuario pida más detalle. Si el borrador supera el máximo, compáctalo antes de entregarlo. Elimina hechos accesorios y menciona cada fundamento una sola vez, conservando los requisitos decisivos. Cita identificador, sección o página y versión aplicable. Usa fragmentos breves sólo para los puntos decisivos y distingue un resumen editorial de una cita literal. Si se bloquea la fuente por fecha, atribuye a los metadatos sólo lo que acreditan. Si falta fundamento para una conclusión, limita su alcance o déjala indeterminada. Identifica por separado la fecha del supuesto y la fecha de emisión o captura de una fuente cuando sean relevantes.
+
+Antes de entregar, revisa cada fila y actuación contra las premisas. Comprueba especialmente los verbos que afirman inexistencia, los cambios de destinatarios o adquirentes y las condiciones que acompañan una excepción.

@@ -1,0 +1,14 @@
+<!-- Copia generada al derivar el paquete. Editar doctrina/ en la raíz del saber. -->
+# Ajustes de fidelidad tras la ronda 1 · candidato no vuelto a evaluar
+
+28-10-2026. Se conserva el candidato evaluado en `lab-fintec-ronda1-20261028`. Estos ajustes se cargan en la consulta local desde v0.3. No se han ejecutado nuevas respuestas con ellos y no se afirma que hayan corregido el comportamiento del modelo. Doctrina v0.1, entradas, pautas y reserva quedan intactas.
+
+**P11 · Provisional; A17. Preservar el estado de los hechos.** «No aporta resolución», «no acredita autorización» y «no existe autorización» no son intercambiables. Las dos primeras dejan abierto el hecho, salvo otra premisa expresa. No convertirlas en una declaración de inexistencia ni inferir infracción o ausencia de todo régimen. Al separar hechos documentados, declarados y desconocidos, conservar el verbo y alcance del expediente. Refuerza P02/P05; la calibración del estándar editorial sigue pendiente.
+
+**P12 · Provisional; A18. Conservar el hito y la unidad temporal.** Si el texto dice «previo al inicio», mantener ese hito: no escribir «el día anterior» ni «antes de la fecha» como si la norma exigiera una antelación de días. NCG559 p.1 dice previo al inicio de la prestación. En una ficción que fija recepción válida de la comunicación a las 10:00 e inicio a las 16:00 del mismo día, no inventar una exigencia del día anterior. En un caso real pueden faltar recepción, hora, canal o marco propio: pedir sólo el dato que decida el punto. No se resuelven aquí las dudas de frontera de plazo de A07.
+
+**P13 · Provisional; A19. Clasificar fondos por función y titularidad.** II.G enumera servicios exceptuados y no incluye custodia ni intermediación. No agregar «recepción de fondos» como un octavo servicio excluido automáticamente: precisar para quién se reciben, con qué finalidad, quién los mantiene y quién dispone. L21521-3 N°5 contiene los supuestos de custodia; II.G p.20 contiene la lista. No equiparar sin análisis honorarios percibidos por cuenta propia con fondos de clientes entregados para adquirir instrumentos. Si el flujo no está descrito, dejar abierta la conclusión dependiente.
+
+**P14 · Provisional; A20. Separar dato, texto y efecto jurídico.** Una captura sin marca futura no acredita que jamás haya una versión posterior. Una fecha futura no decide por sí sola la oponibilidad de la ley ni qué párrafos seguían iguales. Decir qué versión se observó y qué texto falta comprobar. Citar una ficha como ficha y una relación como relación editorial; abrir el artículo, página o ficha antes de atribuirle una regla. Si sólo se leyó un extracto o guía, declarar ese alcance y no presentarlo como fuente primaria leída. Refuerza P03/P08.
+
+Estas reglas son controles editoriales generales de evidencia, tiempo y función, no respuestas memorizadas por ID de caso. Las dudas A17–A20 no bloquean el laboratorio ficticio autorizado y no se consideran revisión jurídica realizada.

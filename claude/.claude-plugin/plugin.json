@@ -1,0 +1,23 @@
+{
+  "name": "normativa-financiera",
+  "version": "0.5.0",
+  "description": "Apoyo supervisado para abogados comerciales y responsables de cumplimiento que revisan una operación de financiamiento empresarial en Chile: perímetro y habilitación Fintec (Ley 21.521 y NCG 502) y rutas de oferta de NCG 336 y 452, con el pasaje de cada norma y su versión a la fecha del supuesto, los hechos que faltan y las condiciones de cada excepción. No certifica entidades ni aprueba operaciones.",
+  "author": {
+    "name": "MindTheContext"
+  },
+  "repository": "https://github.com/mindthecontext/saber-normativa-financiera",
+  "keywords": [
+    "financiero",
+    "fintec",
+    "ley 21.521",
+    "cmf",
+    "ncg 502",
+    "ncg 336",
+    "ncg 452",
+    "oferta de valores",
+    "financiamiento",
+    "cumplimiento"
+  ],
+  "homepage": "https://github.com/mindthecontext/saber-normativa-financiera",
+  "mcpServers": "./.mcp.json"
+}
